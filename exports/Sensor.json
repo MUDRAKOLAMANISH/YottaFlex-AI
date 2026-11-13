@@ -1,0 +1,2202 @@
+[
+    {
+        "sensor_id": "SNS-PUMP-001",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-001",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-001",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-002",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-002",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-002",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-003",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-003",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-003",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-004",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-004",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-004",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-005",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-005",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-005",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-006",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-006",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-006",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-007",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for PUMP-007",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-007",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-008",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-008",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-008",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-009",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-009",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-009",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-010",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-010",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-010",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-011",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-011",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-011",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-012",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-012",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-012",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-013",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-013",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-013",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-014",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for PUMP-014",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-014",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-015",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-015",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-015",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-016",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-016",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-016",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-017",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-017",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-017",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-018",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-018",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-018",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-019",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-019",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-019",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PUMP-020",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for PUMP-020",
+        "sensor_type": "FLOW",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-020",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-001",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-001",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-001",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-002",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-002",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-002",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-003",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-003",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-003",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-004",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-004",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-004",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-005",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-005",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-005",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-006",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-006",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-006",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-007",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-007",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-007",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-008",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-008",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-008",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-009",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-009",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-009",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-010",
+        "facility_id": "FAC-001",
+        "sensor_name": "LEVEL Sensor for TANK-010",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-010",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-011",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-011",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-011",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-012",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-012",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-012",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-013",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-013",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-013",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-014",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-014",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-014",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-015",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-015",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-015",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-016",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-016",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-016",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-017",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-017",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-017",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-018",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-018",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-018",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-019",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-019",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-019",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-020",
+        "facility_id": "FAC-002",
+        "sensor_name": "LEVEL Sensor for TANK-020",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-020",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-021",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-021",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-021",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-022",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-022",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-022",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-023",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-023",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-023",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-024",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-024",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-024",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-025",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-025",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-025",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-026",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-026",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-026",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-027",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-027",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-027",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-028",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-028",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-028",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-029",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-029",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-029",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-TANK-030",
+        "facility_id": "FAC-003",
+        "sensor_name": "LEVEL Sensor for TANK-030",
+        "sensor_type": "LEVEL",
+        "equipment_type": "TANK",
+        "equipment_id": "TANK-030",
+        "unit": "LITERS",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-001",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-001",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-001",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-002",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-002",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-002",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-003",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-003",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-003",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-004",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-004",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-004",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-005",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-005",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-005",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-006",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-006",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-006",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-007",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-007",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-007",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-008",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-008",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-008",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-009",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-009",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-009",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-010",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-010",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-010",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-011",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-011",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-011",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-012",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-012",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-012",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-013",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-013",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-013",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-014",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-014",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-014",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-015",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-015",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-015",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-016",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-016",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-016",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-017",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-017",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-017",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-018",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-018",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-018",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-019",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-019",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-019",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-020",
+        "facility_id": "FAC-001",
+        "sensor_name": "FLOW Sensor for VALVE-020",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-020",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-021",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-021",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-021",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-022",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-022",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-022",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-023",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-023",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-023",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-024",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-024",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-024",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-025",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-025",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-025",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-026",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-026",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-026",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-027",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-027",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-027",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-028",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-028",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-028",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-029",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-029",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-029",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-030",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-030",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-030",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-031",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-031",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-031",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-032",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-032",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-032",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-033",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-033",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-033",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-034",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-034",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-034",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-035",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-035",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-035",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-036",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-036",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-036",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-037",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-037",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-037",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-038",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-038",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-038",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-039",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-039",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-039",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-040",
+        "facility_id": "FAC-002",
+        "sensor_name": "FLOW Sensor for VALVE-040",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-040",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-041",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-041",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-041",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-042",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-042",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-042",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-043",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-043",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-043",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-044",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-044",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-044",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-045",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-045",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-045",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-046",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-046",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-046",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-047",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-047",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-047",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-048",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-048",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-048",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-049",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-049",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-049",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-050",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-050",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-050",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-051",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-051",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-051",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-052",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-052",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-052",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-053",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-053",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-053",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-054",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-054",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-054",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-055",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-055",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-055",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-056",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-056",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-056",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-057",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-057",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-057",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-058",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-058",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-058",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-059",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-059",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-059",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-VALVE-060",
+        "facility_id": "FAC-003",
+        "sensor_name": "FLOW Sensor for VALVE-060",
+        "sensor_type": "FLOW",
+        "equipment_type": "VALVE",
+        "equipment_id": "VALVE-060",
+        "unit": "LPM",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-001",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-001",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-001",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-002",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-002",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-002",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-003",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-003",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-003",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-004",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-004",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-004",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-005",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-005",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-005",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-006",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-006",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-006",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-007",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-007",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-007",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-008",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-008",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-008",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-009",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-009",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-009",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-010",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-010",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-010",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-011",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-011",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-011",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-012",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-012",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-012",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-013",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-013",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-013",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-014",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-014",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-014",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-015",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-015",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-015",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-016",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-016",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-016",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-017",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-017",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-017",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-018",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-018",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-018",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-019",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-019",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-019",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-020",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-020",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-020",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-021",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-021",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-021",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-022",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-022",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-022",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-023",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-023",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-023",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-024",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-024",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-024",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-025",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-025",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-025",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-026",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-026",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-026",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-027",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-027",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-027",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-028",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-028",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-028",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-029",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-029",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-029",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-030",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-030",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-030",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-031",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-031",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-031",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-032",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-032",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-032",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-033",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-033",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-033",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-034",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-034",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-034",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-035",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-035",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-035",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-036",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-036",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-036",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-037",
+        "facility_id": "FAC-001",
+        "sensor_name": "PRESSURE Sensor for PIPE-037",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-037",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-038",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-038",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-038",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-039",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-039",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-039",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-040",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-040",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-040",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-041",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-041",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-041",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-042",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-042",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-042",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-043",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-043",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-043",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-044",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-044",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-044",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-045",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-045",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-045",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-046",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-046",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-046",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-047",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-047",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-047",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-048",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-048",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-048",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-049",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-049",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-049",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-050",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-050",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-050",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-051",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-051",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-051",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-052",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-052",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-052",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-053",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-053",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-053",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-054",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-054",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-054",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-055",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-055",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-055",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-056",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-056",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-056",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-057",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-057",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-057",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-058",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-058",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-058",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-059",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-059",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-059",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-060",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-060",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-060",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-061",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-061",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-061",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-062",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-062",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-062",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-063",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-063",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-063",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-064",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-064",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-064",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-065",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-065",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-065",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-066",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-066",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-066",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-067",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-067",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-067",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-068",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-068",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-068",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-069",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-069",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-069",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-070",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-070",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-070",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-071",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-071",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-071",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-072",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-072",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-072",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-073",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-073",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-073",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-074",
+        "facility_id": "FAC-002",
+        "sensor_name": "PRESSURE Sensor for PIPE-074",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-074",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-075",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-075",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-075",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-076",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-076",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-076",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-077",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-077",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-077",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-078",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-078",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-078",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-079",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-079",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-079",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-080",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-080",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-080",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-081",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-081",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-081",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-082",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-082",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-082",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-083",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-083",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-083",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-084",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-084",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-084",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-085",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-085",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-085",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-086",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-086",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-086",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-087",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-087",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-087",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-088",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-088",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-088",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-089",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-089",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-089",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-090",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-090",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-090",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-091",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-091",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-091",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-092",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-092",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-092",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-093",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-093",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-093",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-094",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-094",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-094",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-095",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-095",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-095",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-096",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-096",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-096",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-097",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-097",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-097",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-098",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-098",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-098",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-099",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-099",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-099",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-100",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-100",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-100",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-101",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-101",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-101",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-102",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-102",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-102",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-103",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-103",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-103",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-104",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-104",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-104",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-105",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-105",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-105",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-106",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-106",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-106",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-107",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-107",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-107",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-108",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-108",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-108",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-109",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-109",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-109",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    },
+    {
+        "sensor_id": "SNS-PIPE-110",
+        "facility_id": "FAC-003",
+        "sensor_name": "PRESSURE Sensor for PIPE-110",
+        "sensor_type": "PRESSURE",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-110",
+        "unit": "BAR",
+        "status": "ACTIVE"
+    }
+]

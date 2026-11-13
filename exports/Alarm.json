@@ -1,0 +1,46 @@
+[
+    {
+        "alarm_id": "ALM-001",
+        "facility_id": "FAC-001",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-001",
+        "alarm_type": "LEAK",
+        "severity": "HIGH",
+        "description": "Pipe pressure below 1.5 BAR for 30 latest readings.",
+        "detected_at": "2026-10-22T07:34:00",
+        "status": "OPEN"
+    },
+    {
+        "alarm_id": "ALM-002",
+        "facility_id": "FAC-001",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-002",
+        "alarm_type": "BLOCKAGE",
+        "severity": "HIGH",
+        "description": "Pipe pressure above 3.5 BAR for 30 latest readings.",
+        "detected_at": "2026-10-22T07:34:00",
+        "status": "OPEN"
+    },
+    {
+        "alarm_id": "ALM-003",
+        "facility_id": "FAC-001",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-001",
+        "alarm_type": "PUMP_DEGRADATION",
+        "severity": "HIGH",
+        "description": "Pump flow below 50 percent of rated capacity.",
+        "detected_at": "2026-10-22T07:34:00",
+        "status": "OPEN"
+    },
+    {
+        "alarm_id": "ALM-004",
+        "facility_id": "FAC-001",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-002",
+        "alarm_type": "SENSOR_FAULT",
+        "severity": "CRITICAL",
+        "description": "Sensor reports BAD quality and an unrealistic flow reading.",
+        "detected_at": "2026-10-22T07:34:00",
+        "status": "OPEN"
+    }
+]

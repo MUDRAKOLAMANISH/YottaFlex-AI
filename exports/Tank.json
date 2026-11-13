@@ -1,0 +1,242 @@
+[
+    {
+        "tank_id": "TANK-001",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 1",
+        "capacity_liters": 5100.0,
+        "current_level_liters": 3060.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-002",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 2",
+        "capacity_liters": 5200.0,
+        "current_level_liters": 3120.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-003",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 3",
+        "capacity_liters": 5300.0,
+        "current_level_liters": 3180.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-004",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 4",
+        "capacity_liters": 5400.0,
+        "current_level_liters": 3240.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-005",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 5",
+        "capacity_liters": 5500.0,
+        "current_level_liters": 3300.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-006",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 6",
+        "capacity_liters": 5600.0,
+        "current_level_liters": 3360.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-007",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 7",
+        "capacity_liters": 5700.0,
+        "current_level_liters": 3420.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-008",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 8",
+        "capacity_liters": 5800.0,
+        "current_level_liters": 3480.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-009",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 9",
+        "capacity_liters": 5900.0,
+        "current_level_liters": 3540.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-010",
+        "facility_id": "FAC-001",
+        "tank_name": "Storage Tank 10",
+        "capacity_liters": 6000.0,
+        "current_level_liters": 3600.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-011",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 11",
+        "capacity_liters": 6100.0,
+        "current_level_liters": 3660.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-012",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 12",
+        "capacity_liters": 6200.0,
+        "current_level_liters": 3720.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-013",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 13",
+        "capacity_liters": 6300.0,
+        "current_level_liters": 3780.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-014",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 14",
+        "capacity_liters": 6400.0,
+        "current_level_liters": 3840.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-015",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 15",
+        "capacity_liters": 6500.0,
+        "current_level_liters": 3900.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-016",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 16",
+        "capacity_liters": 6600.0,
+        "current_level_liters": 3960.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-017",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 17",
+        "capacity_liters": 6700.0,
+        "current_level_liters": 4020.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-018",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 18",
+        "capacity_liters": 6800.0,
+        "current_level_liters": 4080.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-019",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 19",
+        "capacity_liters": 6900.0,
+        "current_level_liters": 4140.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-020",
+        "facility_id": "FAC-002",
+        "tank_name": "Storage Tank 20",
+        "capacity_liters": 7000.0,
+        "current_level_liters": 4200.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-021",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 21",
+        "capacity_liters": 7100.0,
+        "current_level_liters": 4260.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-022",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 22",
+        "capacity_liters": 7200.0,
+        "current_level_liters": 4320.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-023",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 23",
+        "capacity_liters": 7300.0,
+        "current_level_liters": 4380.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-024",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 24",
+        "capacity_liters": 7400.0,
+        "current_level_liters": 4440.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-025",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 25",
+        "capacity_liters": 7500.0,
+        "current_level_liters": 4500.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-026",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 26",
+        "capacity_liters": 7600.0,
+        "current_level_liters": 4560.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-027",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 27",
+        "capacity_liters": 7700.0,
+        "current_level_liters": 4620.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-028",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 28",
+        "capacity_liters": 7800.0,
+        "current_level_liters": 4680.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-029",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 29",
+        "capacity_liters": 7900.0,
+        "current_level_liters": 4740.0,
+        "status": "ACTIVE"
+    },
+    {
+        "tank_id": "TANK-030",
+        "facility_id": "FAC-003",
+        "tank_name": "Storage Tank 30",
+        "capacity_liters": 8000.0,
+        "current_level_liters": 4800.0,
+        "status": "ACTIVE"
+    }
+]

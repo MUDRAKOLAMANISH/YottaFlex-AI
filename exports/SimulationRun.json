@@ -1,0 +1,46 @@
+[
+    {
+        "simulation_id": "SIM-2026-000001",
+        "facility_id": "FAC-001",
+        "simulation_name": "LEAK scenario",
+        "scenario_type": "LEAK",
+        "input_configuration": "{\"simulation_id\": \"SIM-2026-000001\", \"ground_truth_id\": \"GT-001\", \"alarm_id\": \"ALM-001\", \"sensor_id\": \"SNS-PIPE-001\", \"equipment_type\": \"PIPE\", \"equipment_id\": \"PIPE-001\", \"issue_type\": \"LEAK\", \"value\": 1.2, \"quality\": \"GOOD\", \"severity\": \"HIGH\", \"rule\": \"Pipe pressure below 1.5 BAR for 30 latest readings.\"}",
+        "result_summary": "Injected into 30 latest sensor readings.",
+        "status": "COMPLETED",
+        "started_at": "2026-10-22T07:34:00",
+        "completed_at": "2026-10-22T07:34:00"
+    },
+    {
+        "simulation_id": "SIM-2026-000002",
+        "facility_id": "FAC-001",
+        "simulation_name": "BLOCKAGE scenario",
+        "scenario_type": "BLOCKAGE",
+        "input_configuration": "{\"simulation_id\": \"SIM-2026-000002\", \"ground_truth_id\": \"GT-002\", \"alarm_id\": \"ALM-002\", \"sensor_id\": \"SNS-PIPE-002\", \"equipment_type\": \"PIPE\", \"equipment_id\": \"PIPE-002\", \"issue_type\": \"BLOCKAGE\", \"value\": 4.0, \"quality\": \"GOOD\", \"severity\": \"HIGH\", \"rule\": \"Pipe pressure above 3.5 BAR for 30 latest readings.\"}",
+        "result_summary": "Injected into 30 latest sensor readings.",
+        "status": "COMPLETED",
+        "started_at": "2026-10-22T07:34:00",
+        "completed_at": "2026-10-22T07:34:00"
+    },
+    {
+        "simulation_id": "SIM-2026-000003",
+        "facility_id": "FAC-001",
+        "simulation_name": "PUMP_DEGRADATION scenario",
+        "scenario_type": "PUMP_DEGRADATION",
+        "input_configuration": "{\"simulation_id\": \"SIM-2026-000003\", \"ground_truth_id\": \"GT-003\", \"alarm_id\": \"ALM-003\", \"sensor_id\": \"SNS-PUMP-001\", \"equipment_type\": \"PUMP\", \"equipment_id\": \"PUMP-001\", \"issue_type\": \"PUMP_DEGRADATION\", \"value\": 46.8, \"quality\": \"GOOD\", \"severity\": \"HIGH\", \"rule\": \"Pump flow below 50 percent of rated capacity.\"}",
+        "result_summary": "Injected into 30 latest sensor readings.",
+        "status": "COMPLETED",
+        "started_at": "2026-10-22T07:34:00",
+        "completed_at": "2026-10-22T07:34:00"
+    },
+    {
+        "simulation_id": "SIM-2026-000004",
+        "facility_id": "FAC-001",
+        "simulation_name": "SENSOR_FAULT scenario",
+        "scenario_type": "SENSOR_FAULT",
+        "input_configuration": "{\"simulation_id\": \"SIM-2026-000004\", \"ground_truth_id\": \"GT-004\", \"alarm_id\": \"ALM-004\", \"sensor_id\": \"SNS-PUMP-002\", \"equipment_type\": \"PUMP\", \"equipment_id\": \"PUMP-002\", \"issue_type\": \"SENSOR_FAULT\", \"value\": 9999.0, \"quality\": \"BAD\", \"severity\": \"CRITICAL\", \"rule\": \"Sensor reports BAD quality and an unrealistic flow reading.\"}",
+        "result_summary": "Injected into 30 latest sensor readings.",
+        "status": "COMPLETED",
+        "started_at": "2026-10-22T07:34:00",
+        "completed_at": "2026-10-22T07:34:00"
+    }
+]

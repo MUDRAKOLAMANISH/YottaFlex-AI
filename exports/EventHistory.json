@@ -1,0 +1,50 @@
+[
+    {
+        "event_id": "EVT-GT-001",
+        "facility_id": "FAC-001",
+        "simulation_id": "SIM-2026-000001",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-001",
+        "event_type": "ANOMALY_INJECTED",
+        "previous_state": "NORMAL",
+        "new_state": "LEAK",
+        "event_description": "Pipe pressure below 1.5 BAR for 30 latest readings.",
+        "event_timestamp": "2026-10-22T07:34:00"
+    },
+    {
+        "event_id": "EVT-GT-002",
+        "facility_id": "FAC-001",
+        "simulation_id": "SIM-2026-000002",
+        "equipment_type": "PIPE",
+        "equipment_id": "PIPE-002",
+        "event_type": "ANOMALY_INJECTED",
+        "previous_state": "NORMAL",
+        "new_state": "BLOCKAGE",
+        "event_description": "Pipe pressure above 3.5 BAR for 30 latest readings.",
+        "event_timestamp": "2026-10-22T07:34:00"
+    },
+    {
+        "event_id": "EVT-GT-003",
+        "facility_id": "FAC-001",
+        "simulation_id": "SIM-2026-000003",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-001",
+        "event_type": "ANOMALY_INJECTED",
+        "previous_state": "NORMAL",
+        "new_state": "PUMP_DEGRADATION",
+        "event_description": "Pump flow below 50 percent of rated capacity.",
+        "event_timestamp": "2026-10-22T07:34:00"
+    },
+    {
+        "event_id": "EVT-GT-004",
+        "facility_id": "FAC-001",
+        "simulation_id": "SIM-2026-000004",
+        "equipment_type": "PUMP",
+        "equipment_id": "PUMP-002",
+        "event_type": "ANOMALY_INJECTED",
+        "previous_state": "NORMAL",
+        "new_state": "SENSOR_FAULT",
+        "event_description": "Sensor reports BAD quality and an unrealistic flow reading.",
+        "event_timestamp": "2026-10-22T07:34:00"
+    }
+]

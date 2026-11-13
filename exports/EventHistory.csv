@@ -1,0 +1,5 @@
+event_id,facility_id,simulation_id,equipment_type,equipment_id,event_type,previous_state,new_state,event_description,event_timestamp
+EVT-GT-001,FAC-001,SIM-2026-000001,PIPE,PIPE-001,ANOMALY_INJECTED,NORMAL,LEAK,Pipe pressure below 1.5 BAR for 30 latest readings.,2026-10-22T07:34:00
+EVT-GT-002,FAC-001,SIM-2026-000002,PIPE,PIPE-002,ANOMALY_INJECTED,NORMAL,BLOCKAGE,Pipe pressure above 3.5 BAR for 30 latest readings.,2026-10-22T07:34:00
+EVT-GT-003,FAC-001,SIM-2026-000003,PUMP,PUMP-001,ANOMALY_INJECTED,NORMAL,PUMP_DEGRADATION,Pump flow below 50 percent of rated capacity.,2026-10-22T07:34:00
+EVT-GT-004,FAC-001,SIM-2026-000004,PUMP,PUMP-002,ANOMALY_INJECTED,NORMAL,SENSOR_FAULT,Sensor reports BAD quality and an unrealistic flow reading.,2026-10-22T07:34:00

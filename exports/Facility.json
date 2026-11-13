@@ -1,0 +1,17 @@
+[
+    {
+        "facility_id": "FAC-001",
+        "facility_name": "Hyderabad Water Plant",
+        "location": "Hyderabad"
+    },
+    {
+        "facility_id": "FAC-002",
+        "facility_name": "Karimnagar Water Plant",
+        "location": "Karimnagar"
+    },
+    {
+        "facility_id": "FAC-003",
+        "facility_name": "Warangal Water Plant",
+        "location": "Warangal"
+    }
+]
