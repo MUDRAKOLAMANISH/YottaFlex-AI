@@ -1,1 +1,29 @@
-[]
+[
+    {
+        "mode_id": "MODE-80-FAC-001",
+        "facility_id": "FAC-001",
+        "mode_name": "High Output Mode",
+        "description": "Simulated operation at 80% pump speed",
+        "pump_speed_percentage": 80.0,
+        "created_at": "2026-11-13T22:40:26",
+        "status": "ACTIVE"
+    },
+    {
+        "mode_id": "MODE-80-FAC-002",
+        "facility_id": "FAC-002",
+        "mode_name": "High Output Mode",
+        "description": "Simulated operation at 80% pump speed",
+        "pump_speed_percentage": 80.0,
+        "created_at": "2026-11-13T22:40:26",
+        "status": "ACTIVE"
+    },
+    {
+        "mode_id": "MODE-80-FAC-003",
+        "facility_id": "FAC-003",
+        "mode_name": "High Output Mode",
+        "description": "Simulated operation at 80% pump speed",
+        "pump_speed_percentage": 80.0,
+        "created_at": "2026-11-13T22:40:26",
+        "status": "ACTIVE"
+    }
+]

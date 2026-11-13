@@ -112,3 +112,40 @@ This records the current export file fingerprints. A complete two-run regenerati
 The current implementation successfully creates and validates a synthetic water infrastructure dataset, monitors telemetry, detects four controlled anomaly types, evaluates mass balance where sensor coverage is sufficient, and exports database records in CSV and JSON formats.
 
 Further work is required for complete reproducibility testing and advanced operating-mode simulation.
+
+## 10. Negative Scenario Testing
+
+Five negative test scenarios were executed using an isolated in-memory SQLite database.
+
+| Test Scenario | Expected Behaviour | Result |
+|---|---|---|
+| Pipe references missing node | Reject invalid foreign key | PASS |
+| Tank level exceeds capacity | Reject invalid tank data | PASS |
+| Simulation input configuration missing | Reject NULL configuration | PASS |
+| Flow conservation violated | Detect imbalance above tolerance | PASS |
+| Sensor fault incorrectly labelled as leak | Detect incorrect classification | PASS |
+
+**Result: 5/5 negative tests passed.**
+
+These tests use isolated test data and do not modify the production database.
+
+## 11. Operating-Mode Simulation
+
+A pump-speed change simulation was executed for all three facilities.
+
+The simulation compares a baseline pump speed of 65% with a new operating speed of 80%.
+
+| Facility | Total Pump Capacity (LPM) | Baseline Flow (LPM) | Simulated Flow (LPM) | Estimated Increase (LPM) |
+|---|---:|---:|---:|---:|
+| Hyderabad | 1050.00 | 682.50 | 840.00 | 157.50 |
+| Karimnagar | 1030.00 | 669.50 | 824.00 | 154.50 |
+| Warangal | 920.00 | 598.00 | 736.00 | 138.00 |
+
+**Database verification:**
+- Operating modes created: 3
+- Operating-mode simulation runs: 3
+- Total simulation runs: 7
+
+**Assumption:** Flow is estimated linearly from rated pump capacity and speed percentage. This is a simplified estimate, not a hydraulic simulation or validated pump performance curve.
+
+**Result:** All three operating-mode simulations completed successfully.

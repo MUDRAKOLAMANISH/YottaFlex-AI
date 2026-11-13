@@ -42,5 +42,38 @@
         "status": "COMPLETED",
         "started_at": "2026-10-22T07:34:00",
         "completed_at": "2026-10-22T07:34:00"
+    },
+    {
+        "simulation_id": "SIM-OP-80-FAC-001",
+        "facility_id": "FAC-001",
+        "simulation_name": "Pump Speed Increase Simulation",
+        "scenario_type": "OPERATING_MODE_CHANGE",
+        "input_configuration": "{\"baseline_speed_percentage\": 65, \"new_speed_percentage\": 80, \"pump_capacity_lpm\": 1050.0, \"model\": \"Linear proportional estimate\"}",
+        "result_summary": "{\"baseline_estimated_flow_lpm\": 682.5, \"simulated_estimated_flow_lpm\": 840.0, \"estimated_increase_lpm\": 157.5}",
+        "status": "COMPLETED",
+        "started_at": "2026-11-13T22:40:26",
+        "completed_at": "2026-11-13T22:40:26"
+    },
+    {
+        "simulation_id": "SIM-OP-80-FAC-002",
+        "facility_id": "FAC-002",
+        "simulation_name": "Pump Speed Increase Simulation",
+        "scenario_type": "OPERATING_MODE_CHANGE",
+        "input_configuration": "{\"baseline_speed_percentage\": 65, \"new_speed_percentage\": 80, \"pump_capacity_lpm\": 1030.0, \"model\": \"Linear proportional estimate\"}",
+        "result_summary": "{\"baseline_estimated_flow_lpm\": 669.5, \"simulated_estimated_flow_lpm\": 824.0, \"estimated_increase_lpm\": 154.5}",
+        "status": "COMPLETED",
+        "started_at": "2026-11-13T22:40:26",
+        "completed_at": "2026-11-13T22:40:26"
+    },
+    {
+        "simulation_id": "SIM-OP-80-FAC-003",
+        "facility_id": "FAC-003",
+        "simulation_name": "Pump Speed Increase Simulation",
+        "scenario_type": "OPERATING_MODE_CHANGE",
+        "input_configuration": "{\"baseline_speed_percentage\": 65, \"new_speed_percentage\": 80, \"pump_capacity_lpm\": 920.0, \"model\": \"Linear proportional estimate\"}",
+        "result_summary": "{\"baseline_estimated_flow_lpm\": 598.0, \"simulated_estimated_flow_lpm\": 736.0, \"estimated_increase_lpm\": 138.0}",
+        "status": "COMPLETED",
+        "started_at": "2026-11-13T22:40:26",
+        "completed_at": "2026-11-13T22:40:26"
     }
 ]
