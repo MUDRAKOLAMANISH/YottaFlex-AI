@@ -216,3 +216,13 @@ GitHub: [MUDRAKOLAMANISH](https://github.com/MUDRAKOLAMANISH)
 ---
 
 *YottaFlex AI – Intelligent Industrial Water Infrastructure Monitoring*
+## 📸 Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](screenshots/dashboard-overview.png)
+
+### 2. Anomaly Monitoring
+![Anomaly Monitoring](screenshots/anomaly-monitoring.png)
+
+### 3. Mass Balance Monitoring
+![Mass Balance Monitoring](screenshots/mass-balance.png)
