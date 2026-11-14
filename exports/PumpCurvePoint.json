@@ -1,0 +1,482 @@
+[
+    {
+        "curve_point_id": "CURVE-PUMP-001-P1",
+        "pump_id": "PUMP-001",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 144.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-001-P2",
+        "pump_id": "PUMP-001",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 120.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-001-P3",
+        "pump_id": "PUMP-001",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 84.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-002-P1",
+        "pump_id": "PUMP-002",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 180.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-002-P2",
+        "pump_id": "PUMP-002",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 150.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-002-P3",
+        "pump_id": "PUMP-002",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 105.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-003-P1",
+        "pump_id": "PUMP-003",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 216.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-003-P2",
+        "pump_id": "PUMP-003",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 180.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-003-P3",
+        "pump_id": "PUMP-003",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 126.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-004-P1",
+        "pump_id": "PUMP-004",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 120.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-004-P2",
+        "pump_id": "PUMP-004",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 100.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-004-P3",
+        "pump_id": "PUMP-004",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 70.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-005-P1",
+        "pump_id": "PUMP-005",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 192.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-005-P2",
+        "pump_id": "PUMP-005",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 160.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-005-P3",
+        "pump_id": "PUMP-005",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 112.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-006-P1",
+        "pump_id": "PUMP-006",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 168.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-006-P2",
+        "pump_id": "PUMP-006",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 140.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-006-P3",
+        "pump_id": "PUMP-006",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 98.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-007-P1",
+        "pump_id": "PUMP-007",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 240.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-007-P2",
+        "pump_id": "PUMP-007",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 200.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-007-P3",
+        "pump_id": "PUMP-007",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 140.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-008-P1",
+        "pump_id": "PUMP-008",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 156.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-008-P2",
+        "pump_id": "PUMP-008",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 130.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-008-P3",
+        "pump_id": "PUMP-008",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 91.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-009-P1",
+        "pump_id": "PUMP-009",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 204.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-009-P2",
+        "pump_id": "PUMP-009",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 170.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-009-P3",
+        "pump_id": "PUMP-009",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 119.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-010-P1",
+        "pump_id": "PUMP-010",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 132.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-010-P2",
+        "pump_id": "PUMP-010",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 110.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-010-P3",
+        "pump_id": "PUMP-010",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 77.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-011-P1",
+        "pump_id": "PUMP-011",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 228.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-011-P2",
+        "pump_id": "PUMP-011",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 190.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-011-P3",
+        "pump_id": "PUMP-011",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 133.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-012-P1",
+        "pump_id": "PUMP-012",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 180.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-012-P2",
+        "pump_id": "PUMP-012",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 150.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-012-P3",
+        "pump_id": "PUMP-012",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 105.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-013-P1",
+        "pump_id": "PUMP-013",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 216.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-013-P2",
+        "pump_id": "PUMP-013",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 180.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-013-P3",
+        "pump_id": "PUMP-013",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 126.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-014-P1",
+        "pump_id": "PUMP-014",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 120.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-014-P2",
+        "pump_id": "PUMP-014",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 100.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-014-P3",
+        "pump_id": "PUMP-014",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 70.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-015-P1",
+        "pump_id": "PUMP-015",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 168.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-015-P2",
+        "pump_id": "PUMP-015",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 140.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-015-P3",
+        "pump_id": "PUMP-015",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 98.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-016-P1",
+        "pump_id": "PUMP-016",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 192.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-016-P2",
+        "pump_id": "PUMP-016",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 160.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-016-P3",
+        "pump_id": "PUMP-016",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 112.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-017-P1",
+        "pump_id": "PUMP-017",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 144.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-017-P2",
+        "pump_id": "PUMP-017",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 120.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-017-P3",
+        "pump_id": "PUMP-017",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 84.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-018-P1",
+        "pump_id": "PUMP-018",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 240.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-018-P2",
+        "pump_id": "PUMP-018",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 200.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-018-P3",
+        "pump_id": "PUMP-018",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 140.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-019-P1",
+        "pump_id": "PUMP-019",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 204.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-019-P2",
+        "pump_id": "PUMP-019",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 170.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-019-P3",
+        "pump_id": "PUMP-019",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 119.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-020-P1",
+        "pump_id": "PUMP-020",
+        "speed_percentage": 100.0,
+        "head_m": 0.0,
+        "flow_lpm": 156.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-020-P2",
+        "pump_id": "PUMP-020",
+        "speed_percentage": 100.0,
+        "head_m": 20.0,
+        "flow_lpm": 130.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    },
+    {
+        "curve_point_id": "CURVE-PUMP-020-P3",
+        "pump_id": "PUMP-020",
+        "speed_percentage": 100.0,
+        "head_m": 40.0,
+        "flow_lpm": 91.0,
+        "source_type": "SYNTHETIC_ASSUMPTION"
+    }
+]

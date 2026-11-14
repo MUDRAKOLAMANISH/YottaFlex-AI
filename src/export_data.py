@@ -23,7 +23,8 @@ TABLES = [
     "Alarm",
     "SimulationRun",
     "EventHistory",
-    "GroundTruth"
+    "GroundTruth",
+    "PumpCurvePoint"
 ]
 
 

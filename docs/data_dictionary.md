@@ -4,7 +4,7 @@
 
 YottaFlex AI uses a SQLite relational database to represent industrial water infrastructure, monitor telemetry, detect anomalies, and record simulation and event history.
 
-The database contains 13 tables:
+The database contains 14 tables:
 
 1. Facility
 2. Pump
@@ -19,6 +19,7 @@ The database contains 13 tables:
 11. SimulationRun
 12. EventHistory
 13. GroundTruth
+14. PumpCurvePoint
 
 ## 2. Table Definitions
 
@@ -284,5 +285,21 @@ The following indexes support common queries:
 - GroundTruth provides expected labels for anomaly evaluation.
 - Equipment references in Sensor, NetworkNode, Alarm, EventHistory, and GroundTruth use equipment_type and equipment_id rather than direct foreign keys to every equipment table.
 - Some cross-table and lifecycle validations are handled by application logic rather than database constraints.
-- The current schema does not contain a separate pump-curve table.
 - This database uses synthetic data and is intended as a demonstration system, not a validated hydraulic engineering model.
+
+## PumpCurvePoint
+
+Stores illustrative synthetic pump performance curve points for each pump.
+
+| Column | Description |
+|---|---|
+| curve_point_id | Unique curve point identifier (Primary Key) |
+| pump_id | Associated pump identifier (Foreign Key to Pump) |
+| speed_percentage | Pump operating speed percentage |
+| head_m | Illustrative pump head in metres |
+| flow_lpm | Illustrative flow rate in litres per minute |
+| source_type | Data source classification; SYNTHETIC_ASSUMPTION |
+
+Each pump has three nominal-speed curve points. These values are synthetic assumptions for demonstration and are not manufacturer-certified pump specifications.
+
+Relationship: One Pump can have multiple PumpCurvePoint records.

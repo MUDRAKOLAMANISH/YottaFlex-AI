@@ -73,25 +73,32 @@ Note: These metrics are from a controlled synthetic dataset. They do not represe
 
 Hyderabad is not classified as balanced because one pump sensor has invalid data.
 
+
 ## 6. Export Validation
 
-All 13 database tables were exported into CSV and JSON formats.
+All 14 database tables were exported into CSV and JSON formats.
 
 | Export Check | Result |
 |---|---|
-| CSV files | 13 |
-| JSON files | 13 |
-| Total export files | 26 |
+| CSV files | 14 |
+| JSON files | 14 |
+| Total export files | 28 |
+| Pump curve points exported | 60 |
 | SHA-256 checksum report | Generated |
 | Export errors | None observed |
 
-OperatingMode currently contains zero records.
+
+OperatingMode contains 3 records, including the three completed facility operating-mode simulations.
 
 ## 7. Reproducibility
 
-A SHA-256 checksum script was executed on all 26 exported files.
+A SHA-256 checksum script was executed on all 28 exported CSV and JSON files.
 
 The checksum report is stored at:
+
+`docs/reproducibility_checksums.json`
+
+This records the current export file fingerprints. A complete two-run regeneration comparison has not yet been performed.
 
 `docs/reproducibility_checksums.json`
 
@@ -104,7 +111,7 @@ This records the current export file fingerprints. A complete two-run regenerati
 - Hyderabad mass balance cannot be confirmed because of incomplete sensor data.
 - Anomaly evaluation uses controlled injected scenarios.
 - Some equipment relationships require application-level validation.
-- OperatingMode currently has no seeded records.
+- OperatingMode contains three simulated operating configurations; the flow estimate uses a simplified linear assumption.
 - Full two-run regeneration and checksum comparison remain pending.
 
 ## 9. Conclusion
@@ -149,3 +156,4 @@ The simulation compares a baseline pump speed of 65% with a new operating speed 
 **Assumption:** Flow is estimated linearly from rated pump capacity and speed percentage. This is a simplified estimate, not a hydraulic simulation or validated pump performance curve.
 
 **Result:** All three operating-mode simulations completed successfully.
+Three operating-mode simulations were also completed and their configurations and results were saved in the database.

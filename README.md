@@ -1,4 +1,3 @@
-
 # YottaFlex AI – Water Infrastructure Monitoring System
 
 AI-powered monitoring and anomaly detection for industrial water distribution networks.
@@ -23,8 +22,13 @@ It provides an interactive Streamlit dashboard to visualize network topology, mo
 - Detection performance evaluation
 - SQLite database integration
 - Interactive Streamlit dashboard
+- Pump performance curve reference data
+- Pump curve integrity validation
+- CSV, JSON, and SQL database exports
+- Negative scenario testing
+- SHA-256 export checksum generation
 
-## 3. Facilities
+## 3. Facilities and Dataset
 
 The prototype contains three synthetic facilities:
 
@@ -34,13 +38,17 @@ The prototype contains three synthetic facilities:
 
 The dataset includes:
 
-- 20 pumps
-- 30 tanks
-- 60 valves
-- 110 network nodes
-- 110 pipe connections
-- 220 sensors
-- 100,000 telemetry readings
+| Entity | Count |
+|---|---:|
+| Facilities | 3 |
+| Pumps | 20 |
+| Tanks | 30 |
+| Valves | 60 |
+| Network nodes | 110 |
+| Pipe connections | 110 |
+| Sensors | 220 |
+| Telemetry readings | 100,000 |
+| Pump curve points | 60 |
 
 ## 4. Anomaly Detection
 
@@ -61,7 +69,7 @@ The system compares total pump inflow with total valve outflow.
 
 Imbalance is calculated as:
 
-Imbalance (%) = (Absolute difference between pump inflow and valve outflow / Valve outflow) × 100
+**Imbalance (%) = (Absolute difference between pump inflow and valve outflow / Valve outflow) × 100**
 
 A deviation above 3% is classified as an imbalance.
 
@@ -77,7 +85,35 @@ The system also checks sensor quality and data completeness before evaluating ma
 - Plotly
 - Streamlit
 
-## 7. Project Structure
+## 7. Data Generation and Reproducibility
+
+The project uses synthetic infrastructure and telemetry data generated specifically for prototype evaluation.
+
+- Fixed random seed: `20261022`
+- Telemetry records: 100,000
+- Facilities: 3
+- Pumps: 20
+- Pump curve reference points: 60
+
+Refer to `docs/source_manifest.md` for data sources, generation scripts, and assumptions.
+
+The project provides:
+
+- 14 CSV table exports
+- 14 JSON table exports
+- SQL database export
+
+The SQL database export is available at:
+
+`exports/yottaflex_seed.sql`
+
+SHA-256 export checksums are available in:
+
+`docs/reproducibility_checksums.json`
+
+**Note:** The checksum report records the current export file fingerprints. A complete two-run regeneration comparison has not yet been performed.
+
+## 8. Project Structure
 
 ```text
 YottaFlex-AI/
@@ -89,16 +125,37 @@ YottaFlex-AI/
 ├── data/
 │
 ├── docs/
+│   ├── AI_PROMPTS.md
+│   ├── assumptions_and_limitations.md
+│   ├── data_dictionary.md
+│   ├── reproducibility_checksums.json
+│   ├── source_manifest.md
+│   └── validation_summary.md
+│
+├── exports/
+│   ├── CSV table exports
+│   ├── JSON table exports
+│   └── yottaflex_seed.sql
+│
+├── screenshots/
+│   ├── dashboard-overview.png
+│   ├── anomaly-monitoring.png
+│   └── mass-balance.png
 │
 ├── src/
 │   ├── db.py
 │   ├── seed_data.py
 │   ├── generate_telemetry.py
 │   ├── inject_anomalies.py
+│   ├── create_pump_curves.py
 │   ├── detection_engine.py
 │   ├── evaluate_detection.py
 │   ├── validate_telemetry.py
 │   ├── validate_anomalies.py
+│   ├── test_negative_scenarios.py
+│   ├── export_data.py
+│   ├── verify_reproducibility.py
+│   ├── simulate_operating_mode.py
 │   ├── mass_balance.py
 │   ├── check_flow_balance.py
 │   ├── calibrate_valve_flow.py
@@ -106,15 +163,17 @@ YottaFlex-AI/
 │
 ├── main.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
-## 8. Installation and Setup
+## 9. Installation and Setup
 
 ### Prerequisites
 
 - Python 3.10 or higher
 - pip
+- Git
 
 ### Step 1: Clone the repository
 
@@ -149,7 +208,9 @@ streamlit run src/dashboard.py
 
 Open the local URL displayed in the terminal.
 
-## 9. Validation Results
+The repository includes a pre-populated SQLite database at `database/yottaflex.db`.
+
+## 10. Validation Results
 
 The synthetic test dataset produced the following anomaly detection results:
 
@@ -166,7 +227,20 @@ The synthetic test dataset produced the following anomaly detection results:
 
 These metrics represent performance on the controlled synthetic test dataset and do not establish real-world detection accuracy.
 
-## 10. Mass Balance Results
+### Additional Validation
+
+| Validation | Result |
+|---|---|
+| Telemetry integrity | Passed |
+| Pump curve integrity | Passed |
+| Anomaly validation | Passed |
+| SQL export import test | Passed |
+| Negative scenario testing | 5/5 Passed |
+| Fresh schema creation | Passed |
+
+Detailed results are documented in `docs/validation_summary.md`.
+
+## 11. Mass Balance Results
 
 | Facility | Imbalance | Result |
 |---|---:|---|
@@ -176,7 +250,7 @@ These metrics represent performance on the controlled synthetic test dataset and
 
 Hyderabad's mass balance is not evaluated because one pump sensor has invalid quality data.
 
-## 11. Dashboard Modules
+## 12. Dashboard Modules
 
 1. System Overview
 2. Facility Overview
@@ -187,16 +261,19 @@ Hyderabad's mass balance is not evaluated because one pump sensor has invalid qu
 7. Facility Health Status
 8. Event History
 
-## 12. Assumptions and Limitations
+## 13. Assumptions and Limitations
 
 - The dataset is synthetic and generated for prototype evaluation.
 - Network topology represents a simplified network structure.
 - Anomaly detection uses predefined threshold-based rules.
+- Pump curve points are synthetic reference values, not manufacturer-certified curves.
+- Operating-mode flow estimates use a simplified linear capacity assumption.
 - Mass balance is an operational comparison, not a complete hydraulic simulation.
 - Sensor coverage and data quality affect the reliability of mass balance results.
 - The prototype has not been validated against real industrial water infrastructure.
+- A complete two-run reproducibility comparison has not yet been performed.
 
-## 13. Future Enhancements
+## 14. Future Enhancements
 
 - Real-time sensor integration
 - Advanced anomaly detection using machine learning
@@ -205,7 +282,7 @@ Hyderabad's mass balance is not evaluated because one pump sensor has invalid qu
 - Automated alerts and notifications
 - Historical analytics and reporting
 
-## 14. Author
+## 15. Author
 
 **Manish Mudrakola**
 
@@ -213,16 +290,22 @@ B.Tech – Computer Science and Information Technology
 
 GitHub: [MUDRAKOLAMANISH](https://github.com/MUDRAKOLAMANISH)
 
+Repository: [YottaFlex AI](https://github.com/MUDRAKOLAMANISH/YottaFlex-AI)
+
 ---
 
 *YottaFlex AI – Intelligent Industrial Water Infrastructure Monitoring*
+
 ## 📸 Dashboard Screenshots
 
 ### 1. Dashboard Overview
+
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ### 2. Anomaly Monitoring
+
 ![Anomaly Monitoring](screenshots/anomaly-monitoring.png)
 
 ### 3. Mass Balance Monitoring
+
 ![Mass Balance Monitoring](screenshots/mass-balance.png)

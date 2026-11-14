@@ -37,8 +37,8 @@ for name, query in checks.items():
 
 expected = {
     "Telemetry records": 100000,
-    "Simulation runs": 4,
-    "Ground-truth labels": 4,
+    "Simulation runs": 7,
+    "Ground-truth labels": 220,
     "Alarms": 4,
     "Event-history records": 4
 }

@@ -202,3 +202,18 @@ ON EventHistory(facility_id, event_timestamp);
 
 CREATE INDEX IF NOT EXISTS idx_groundtruth_simulation
 ON GroundTruth(simulation_id);
+CREATE TABLE IF NOT EXISTS PumpCurvePoint (
+    curve_point_id TEXT PRIMARY KEY,
+    pump_id TEXT NOT NULL,
+    speed_percentage REAL NOT NULL
+        CHECK (speed_percentage > 0 AND speed_percentage <= 100),
+    head_m REAL NOT NULL CHECK (head_m >= 0),
+    flow_lpm REAL NOT NULL CHECK (flow_lpm >= 0),
+    source_type TEXT NOT NULL
+        CHECK (source_type = 'SYNTHETIC_ASSUMPTION'),
+    FOREIGN KEY (pump_id) REFERENCES Pump(pump_id),
+    UNIQUE (pump_id, speed_percentage, head_m)
+);
+
+CREATE INDEX IF NOT EXISTS idx_pump_curve_pump
+ON PumpCurvePoint(pump_id);
